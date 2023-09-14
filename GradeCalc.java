@@ -89,37 +89,37 @@ public class GradeCalc {
       // 4 points per grade / grade A
 
         if (mathInt >= 80 && mathInt <= 89) {
-            math3 = 2;
+            math3 = 3;
         } else {
             math3 = 0;
         }
         if (sciInt >= 80 && sciInt <= 89) {
-            sci3 = 2;
+            sci3 = 3;
         } else {
             sci3 = 0;
         }
         if (engInt >= 80 && engInt <= 89) {
-            eng3 = 2;
+            eng3 = 3;
         } else {
             eng3 = 0;
         }
         if (hisInt >= 80 && hisInt <= 89) {
-            his3 = 2;
+            his3 = 3;
         } else {
             his3 = 0;
         }
          if (E1Int >= 80 && E1Int <= 89) {
-            E13 = 2;
+            E13 = 3;
         } else {
             E13 = 0;
         }
          if (E2Int >= 80 && E2Int <= 89) {
-            E23 = 2;
+            E23 = 3;
         } else {
             E23 = 0;
         }
         if (E3Int >= 80 && E3Int <= 89) {
-            E33 = 2;
+            E33 = 3;
         } else {
             E33 = 0;
         }
